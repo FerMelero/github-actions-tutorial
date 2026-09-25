@@ -1,7 +1,7 @@
 name: main-workflow
 
 env:
-  IMAGE_REPOSITORY: fermm/foobar
+  IMAGE_REPOSITORY: ferrmm/foobar
 
 on:
   push:
